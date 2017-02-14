@@ -1,5 +1,0 @@
-Configs
-
-<Config1> Blah Blah Blah <Config1/>
-
-<Config2> All your bases are belonging to us! <Config2/>
