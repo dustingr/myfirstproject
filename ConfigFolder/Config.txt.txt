@@ -1,5 +1,7 @@
 Configs
 
-<Config1> Blah Blah Blah <Config1/>
+<Config1> That wasn't polite <Config1/>
 
 <Config2> All your bases are belonging to us! <Config2/>
+
+<Config3> This is where I test a merge <Config3/>
